@@ -1,0 +1,2 @@
+gem 'dotenv', '2.2.0'
+gem 'sinatra', '1.4.8'
