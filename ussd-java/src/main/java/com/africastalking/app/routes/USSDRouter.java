@@ -3,6 +3,7 @@ package com.africastalking.app.routes;
 import com.africastalking.app.model.Model;
 import com.africastalking.app.util.Call;
 import com.africastalking.app.util.Message;
+import com.google.gson.Gson;
 
 import java.sql.ResultSet;
 
@@ -13,7 +14,7 @@ public class USSDRouter extends BaseRouter {
 	final private static Gson gson = new Gson();
 	@Override
 	protected void doPost(){
-		post("/ussd", (req, res) -> {
+		post("/ussd/", (req, res) -> {
 			String sessionId = req.queryParams("sessionId");
 			String serviceCode = req.queryParams("serviceCode");
 			String phoneNumber = req.queryParams("phoneNumber");

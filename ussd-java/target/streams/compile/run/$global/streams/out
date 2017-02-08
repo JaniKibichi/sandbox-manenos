@@ -20,6 +20,12 @@
 [0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty.websocket/websocket-servlet/jars/websocket-servlet-9.3.6.v20151106.jar[0m
 [0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.slf4j/slf4j-simple/jars/slf4j-simple-1.7.21.jar[0m
 [0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/com.google.code.gson/gson/jars/gson-2.8.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.json/json/jars/json-20151123.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/com.googlecode.json-simple/json-simple/bundles/json-simple-1.1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/junit/junit/jars/junit-4.10.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.xerial/sqlite-jdbc/jars/sqlite-jdbc-3.14.2.1.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
 [0m[[0mdebug[0m] [0mWaiting for thread Thread-1 to terminate.[0m

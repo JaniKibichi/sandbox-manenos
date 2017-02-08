@@ -9,6 +9,7 @@ public class Call {
 		String userName = new ReadVars().getUsername();
 		String apiKey = new ReadVars().getApiKey();
 		String from = new ReadVars().getAfricasTalkingVirtualNumber();
+		
 		String to = phoneNumber;
 	AfricasTalkingGateway gateway = new AfricasTalkingGateway(userName, apiKey);
 

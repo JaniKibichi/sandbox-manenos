@@ -4,7 +4,7 @@ import com.africastalking.app.util.JsonTransformer;
 
 import spark.Route;
 
-import static spark.Spark.*;
+import static spark.Spark.get;
 
 public abstract class BareBonesRouter {
     public final void initiate() {
@@ -14,6 +14,6 @@ public abstract class BareBonesRouter {
     protected abstract void doPost();
 
     protected void getJSON(String path, Route route){
-      get(path, route, newJsonTransformer());
+      get(path, route, new JsonTransformer());
     }
 }

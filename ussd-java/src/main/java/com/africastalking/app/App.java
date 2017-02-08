@@ -1,5 +1,9 @@
 package com.africastalking.app;
 
+import com.africastalking.app.routes.MessagingRouter;
+import com.africastalking.app.routes.USSDRouter;
+import com.africastalking.app.routes.VoiceRouter;
+
 import static spark.Spark.*;
 
 public class App {
@@ -20,5 +24,9 @@ public class App {
 	after((request,response)-> {
 		response.header("Content-Encoding","gzip");
 	});
+
+	(new USSDRouter()).initiate();
+	(new MessagingRouter()).initiate();
+	(new VoiceRouter()).initiate();
   }
 }

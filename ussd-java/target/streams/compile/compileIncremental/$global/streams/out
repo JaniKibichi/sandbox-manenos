@@ -1,28 +1,27 @@
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
 [0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
-[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/ReadVars.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/BareBonesRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Call.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/USSDRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/model/Model.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Message.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/AfricasTalkingGateway.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/BaseRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/JsonTransformer.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/VoiceRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/MessagingRouter.java)[0m
-[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java)[0m
 [0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/ReadVars.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/BareBonesRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Call.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/USSDRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/model/Model.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Message.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/AfricasTalkingGateway.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/BaseRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/JsonTransformer.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/VoiceRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/MessagingRouter.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java)[0m
 [0m[[0mdebug[0m] [0m[naha] [0m
 [0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/ReadVars.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/BareBonesRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Call.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/USSDRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/model/Model.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Message.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/AfricasTalkingGateway.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/BaseRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/JsonTransformer.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/VoiceRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/MessagingRouter.java)[0m
-[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/ReadVars.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/BareBonesRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Call.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/USSDRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/model/Model.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Message.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/AfricasTalkingGateway.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/BaseRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/JsonTransformer.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/VoiceRouter.java, /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/routes/MessagingRouter.java)[0m
-[0m[[0mdebug[0m] [0m[naha] Recompiling all 12 sources: invalidated sources (11) exceeded 50.0% of all sources[0m
-[0m[[0minfo[0m] [0mCompiling 12 Java sources to /home/graham/sandbox/ussd-java/target/scala-2.10/classes...[0m
-[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@12528a4e directly...[0m
-[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Call.java:25: 'catch' without 'try'[0m
-[0m[[31merror[0m] [0m	}catch (Exception e){[0m
-[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Call.java:15: 'try' without 'catch', 'finally' or resource declarations[0m
-[0m[[31merror[0m] [0m	try {[0m
-[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Call.java:29: reached end of file while parsing[0m
-[0m[[31merror[0m] [0m}[0m
-[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/util/Message.java:8: ';' expected[0m
-[0m[[31merror[0m] [0m	String username new ReadVars().getUsername();[0m
-[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) javac returned nonzero exit code[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Java source to /home/graham/sandbox/ussd-java/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@762948cb directly...[0m
+[0m[[0mdebug[0m] [0mJava compilation took 0.893772013 s[0m
+[0m[[0mdebug[0m] [0mJava analysis took 0.190616711 s[0m
+[0m[[0mdebug[0m] [0mJava compile + analysis took 1.092664765 s[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

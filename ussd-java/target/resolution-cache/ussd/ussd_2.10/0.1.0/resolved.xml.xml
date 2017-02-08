@@ -4,7 +4,7 @@
 		module="ussd_2.10"
 		revision="0.1.0"
 		status="integration"
-		publication="20170208093618"
+		publication="20170208142653"
 	>
 		<description>
 		ussd
@@ -38,5 +38,7 @@
 		<dependency org="org.slf4j" name="slf4j-simple" rev="1.7.21" conf="compile->default(compile)"/>
 		<dependency org="com.google.code.gson" name="gson" rev="2.8.0" conf="compile->default(compile)"/>
 		<dependency org="org.json" name="json" rev="20151123" conf="compile->default(compile)"/>
+		<dependency org="com.googlecode.json-simple" name="json-simple" rev="1.1.1" conf="compile->default(compile)"/>
+		<dependency org="org.xerial" name="sqlite-jdbc" rev="3.14.2.1" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>
