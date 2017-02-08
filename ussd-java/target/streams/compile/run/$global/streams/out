@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mRunning com.africastalking.app.App [0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/graham/sandbox/ussd-java/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.sbt/boot/scala-2.10.6/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/com.sparkjava/spark-core/bundles/spark-core-2.5.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty/jetty-server/jars/jetty-server-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/javax.servlet/javax.servlet-api/jars/javax.servlet-api-3.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty/jetty-http/jars/jetty-http-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty/jetty-util/jars/jetty-util-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty/jetty-io/jars/jetty-io-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty/jetty-webapp/jars/jetty-webapp-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty/jetty-xml/jars/jetty-xml-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty/jetty-servlet/jars/jetty-servlet-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty/jetty-security/jars/jetty-security-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty.websocket/websocket-server/jars/websocket-server-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty.websocket/websocket-common/jars/websocket-common-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty.websocket/websocket-api/jars/websocket-api-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty.websocket/websocket-client/jars/websocket-client-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.eclipse.jetty.websocket/websocket-servlet/jars/websocket-servlet-9.3.6.v20151106.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.slf4j/slf4j-simple/jars/slf4j-simple-1.7.21.jar[0m
+[0m[[0mdebug[0m] [0m	/home/graham/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Thread-1 to terminate.[0m

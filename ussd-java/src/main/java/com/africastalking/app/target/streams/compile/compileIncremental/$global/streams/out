@@ -1,0 +1,38 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Java source to /home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mAttempting to call com.sun.tools.javac.api.JavacTool@2e3a88b directly...[0m
+[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java:3: package spark does not exist[0m
+[0m[[31merror[0m] [0mimport static spark.Spark.*;[0m
+[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java:11: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   method port(int)[0m
+[0m[[31merror[0m] [0m  location: class com.africastalking.app.App[0m
+[0m[[31merror[0m] [0m	port(8000);[0m
+[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java:14: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   method threadPool(int,int,int)[0m
+[0m[[31merror[0m] [0m  location: class com.africastalking.app.App[0m
+[0m[[31merror[0m] [0m	threadPool(maxThreads, minThreads, timeOutMillis);[0m
+[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java:16: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   method before((request,r[...]t); })[0m
+[0m[[31merror[0m] [0m  location: class com.africastalking.app.App[0m
+[0m[[31merror[0m] [0m	before((request, response)-> {[0m
+[0m[[31merror[0m] [0m/home/graham/sandbox/ussd-java/src/main/java/com/africastalking/app/App.java:20: cannot find symbol[0m
+[0m[[31merror[0m] [0m  symbol:   method after((request,r[...]"); })[0m
+[0m[[31merror[0m] [0m  location: class com.africastalking.app.App[0m
+[0m[[31merror[0m] [0m	after((request,response)-> {[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) javac returned nonzero exit code[0m
