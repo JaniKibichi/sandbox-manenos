@@ -5,7 +5,7 @@ import org.json.JSONObject;
 
 public class Message {
   public void sms(String message, String phoneNumber){
-	String username new ReadVars().getUsername();
+	String username = new ReadVars().getUsername();
 	String apiKey = new ReadVars().getApiKey();
 	String recipients = phoneNumber;
 	String environ = "sandbox";
@@ -15,8 +15,8 @@ public class Message {
 	try {
 	     JSONArray results = gateway.sendMessage(recipients, message);
 	     for(int i=0; i<results.length(); ++i){
-		JSONObject result = results.getJSONObject(i);
-		System.out.print(result.getString("status")+",");
+				JSONObject result = results.getJSONObject(i);
+				System.out.print(result.getString("status")+",");
                 System.out.print(result.getString("number")+",");
                 System.out.print(result.getString("messageId")+",");
                 System.out.print(result.getString("cost"));

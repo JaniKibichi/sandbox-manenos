@@ -22,7 +22,8 @@ public class Call {
 		  JSONObject result = results.getJSONObject(i);
 		  status = result.getString("status");
 		  System.out.println(status);
-	}catch (Exception e){
+		 }
+	} catch (Exception e){
 		System.out.println("Encountered an error" + e.getMessage());
 	}
 	}
