@@ -399,6 +399,8 @@ class AfricasTalkingGateway
 		if(data_ != nil)
 			request = Net::HTTP::Post.new(uri.request_uri)
 			request.set_form_data(data_)
+			puts "here is data___==============================="
+			puts data_
 		else
 		    request = Net::HTTP::Get.new(uri.request_uri)
 		end

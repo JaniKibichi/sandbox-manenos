@@ -4,7 +4,7 @@ require 'dotenv'
 Dotenv.load
 
 #instantiate gateway
-gateway = AfricasTalkingGateway.new(ENV['AT_API_USERNAME'], ENV['AT_API_KEY'],"sandbox")
+gateway = AfricasTalkingGateway.new(ENV['AT_API_USERNAME'], ENV['AT_API_KEY_LIVE'])
 
 post '/ussd' do
  @sessionId = params[:sessionId]
@@ -36,4 +36,9 @@ post '/ussd' do
  # Print the response onto the page so that our gateway can read it
  body response
  status 200
+end
+
+get '/voice' do
+  results = gateway.call("+254711082300","+254787235065")
+  puts results
 end
