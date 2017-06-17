@@ -12,7 +12,7 @@ public class App {
   //set up threading
 	int maxThreads = 99;
 	int minThreads = 9;
-	port(8000);
+	port(7576);
 
 	int timeOutMillis = 30000;
 	threadPool(maxThreads, minThreads, timeOutMillis);

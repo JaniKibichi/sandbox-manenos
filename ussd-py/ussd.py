@@ -26,6 +26,9 @@ def ussd_callback():
         elif text =="2":
                 menu_text = "END Your phone number is "+phoneNumber
 
+        elif text =="3":
+                menu_text = "END Your branch is UON"                
+
         elif text =="1*1":
                 menu_text = "END Your account number is ACOO10SWO2101."
 
@@ -38,4 +41,4 @@ def ussd_callback():
 
 
 if __name__ == "__main__":
-        app.run()
+        app.run(host='0.0.0.0', port=7576)
